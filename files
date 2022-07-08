@@ -1,0 +1,37 @@
+learning the git, maven, sonarqube, jenkins,AWS...and the balance docker+ansible+k8s+terraform are balance.....
+mkdir directoryname
+rmdir directoryname
+cd directory name
+cd ..
+touch file
+vim file
+cat file
+rm file
+rm -rf file or folder
+cp file folder
+mv file folder
+clear
+git status
+git clone url
+git add .
+git commit -m "add any commit"
+git push
+git init or git checkout -b "master"
+git add .
+git commit -m "add any commit"
+git remote add origin url
+git push origin master
+
+mvn archetype:generate
+total 3000+ dependancies will appear and i will slect no.3 dependancy and will type: 3
+again: 3
+groupid:
+artifactid:
+versionid:
+output: jar or war
+yes/no: yes
+
+then your pom.xml file will be created and maven is a java based dependancy tool
+
+java -jar jenkins.war
+mvn sonar:sonar
